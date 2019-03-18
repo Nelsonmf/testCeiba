@@ -7,7 +7,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class Endpoints {
 
     /********
-     * URLS
+     * URL
      *******/
     public static final String URL_BASE = "https://jsonplaceholder.typicode.com";
     public static final String GET_USERS = "/users";
